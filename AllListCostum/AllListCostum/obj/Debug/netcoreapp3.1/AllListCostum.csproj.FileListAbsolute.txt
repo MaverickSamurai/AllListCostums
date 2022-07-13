@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Indexer, Reflection\AllListCostum\AllListCostum\bin\Debug\netcoreapp3.1\AllListCostum.exe
+C:\Users\User\Desktop\Indexer, Reflection\AllListCostum\AllListCostum\bin\Debug\netcoreapp3.1\AllListCostum.deps.json
+C:\Users\User\Desktop\Indexer, Reflection\AllListCostum\AllListCostum\bin\Debug\netcoreapp3.1\AllListCostum.runtimeconfig.json
+C:\Users\User\Desktop\Indexer, Reflection\AllListCostum\AllListCostum\bin\Debug\netcoreapp3.1\AllListCostum.runtimeconfig.dev.json
+C:\Users\User\Desktop\Indexer, Reflection\AllListCostum\AllListCostum\bin\Debug\netcoreapp3.1\AllListCostum.dll
+C:\Users\User\Desktop\Indexer, Reflection\AllListCostum\AllListCostum\bin\Debug\netcoreapp3.1\AllListCostum.pdb
+C:\Users\User\Desktop\Indexer, Reflection\AllListCostum\AllListCostum\obj\Debug\netcoreapp3.1\AllListCostum.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Indexer, Reflection\AllListCostum\AllListCostum\obj\Debug\netcoreapp3.1\AllListCostum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Indexer, Reflection\AllListCostum\AllListCostum\obj\Debug\netcoreapp3.1\AllListCostum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Indexer, Reflection\AllListCostum\AllListCostum\obj\Debug\netcoreapp3.1\AllListCostum.AssemblyInfo.cs
+C:\Users\User\Desktop\Indexer, Reflection\AllListCostum\AllListCostum\obj\Debug\netcoreapp3.1\AllListCostum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Indexer, Reflection\AllListCostum\AllListCostum\obj\Debug\netcoreapp3.1\AllListCostum.dll
+C:\Users\User\Desktop\Indexer, Reflection\AllListCostum\AllListCostum\obj\Debug\netcoreapp3.1\AllListCostum.pdb
+C:\Users\User\Desktop\Indexer, Reflection\AllListCostum\AllListCostum\obj\Debug\netcoreapp3.1\AllListCostum.genruntimeconfig.cache
